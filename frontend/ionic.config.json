@@ -1,0 +1,7 @@
+{
+  "name": "jalwa",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
